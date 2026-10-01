@@ -1,0 +1,70 @@
+{
+  "pensamentos": [
+    {
+      "id": "2a56",
+      "conteudo": "Apocalipse",
+      "autoria": "Record"
+    },
+    {
+      "id": "7h6s",
+      "conteudo": "A Terra Prometida",
+      "autoria": "Record"
+    },
+    {
+      "id": "68uy",
+      "conteudo": "O Rico e Lázaro",
+      "autoria": "Record"
+    },
+    {
+      "id": "b807",
+      "conteudo": "Jesus",
+      "autoria": "Record"
+    },
+    {
+      "id": "9f3c",
+      "conteudo": "Jezabel",
+      "autoria": "Record"
+    },
+    {
+      "id": "6a2b",
+      "conteudo": "Rebelde",
+      "autoria": "Record"
+    },
+    {
+      "id": "7e2a",
+      "conteudo": "A Escrava Isaura",
+      "autoria": "Record"
+    },
+    {
+      "id": "5c8f",
+      "conteudo": "Essas Mulheres",
+      "autoria": "Record"
+    },
+    {
+      "id": "2d6e",
+      "conteudo": "Os Mutantes",
+      "autoria": "Record"
+    },
+    {
+      "id": "3f1a",
+      "conteudo": "Chamas da Vida",
+      "autoria": "Record"
+    },
+    {
+      "id": "8b4c",
+      "conteudo": "Gênesis",
+      "autoria": "Record"
+    },
+    {
+      "id": "4d2e",
+      "conteudo": "Poder Paralelo",
+      "autoria": "Record"
+    },
+    {
+      "conteudo": "Chiquititas",
+      "autoria": "SBT",
+      "id": "Y9U8BsOELaU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
